@@ -16,6 +16,7 @@
 # Directory
 _Change this to fit your needs when you have started the project._
 - `raw_data`: Contains all the raw data files. You may add this folder to `.gitignore` if your files are too large, but you **must** provide code to automatically download or links so that we may manually download them. 
+- in order to create empty folder in git, a file name"a.abc" is created in raw_data/yellow, remove this file before the running of code!
 -raw_data/yellow: "the new folder need to be created before download the TLC file"
 -raw_data/taxi_zones: "files for folium and geopandas"
 -raw_data/december.csv: weather data for evluate the modelling.
@@ -29,7 +30,9 @@ _Change this to fit your needs when you have started the project._
     - Tips.ipynb for "Analysis and visualisation of what effect the tips"
     - Geospatial.ipynb for "Geospatial Visualisation"
     - modeling.ipynb for "Statistical Modelling".
+    - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
     - !!!!!the code must run in the order listed above!!!!
+    - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 - `deprecated`: A folder to store "old code" that **you do not use anymore** or code that you experimented with, but decided to not go ahead. This is useful in case you ever need to come back to an older iteration of code or to express your other approaches to the problem.
 
 # Other
@@ -37,3 +40,4 @@ _Change this to fit your needs when you have started the project._
 - most of the plot are not shown in the report is shown here.
 - there exit some plot is saved by screenshot
 - the external dataset weather is modified(changed the name of file), please use the csv file included in the raw_data.
+
