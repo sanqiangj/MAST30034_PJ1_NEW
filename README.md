@@ -31,7 +31,7 @@ _Change this to fit your needs when you have started the project._
 - `deprecated`: A folder to store "old code" that **you do not use anymore** or code that you experimented with, but decided to not go ahead. This is useful in case you ever need to come back to an older iteration of code or to express your other approaches to the problem.
 
 # Other
--the auto saveing of Geospatial.ipynb may not avaliable after running all code in this file.
--most of the plot are not shown in the report is shown here.
--there exit some plot is saved by screenshot
--the external dataset weather is modified, please use the csv file included in the raw_data.
+- the auto saveing of Geospatial.ipynb may not avaliable after running all code in this file.
+- most of the plot are not shown in the report is shown here.
+- there exit some plot is saved by screenshot
+- the external dataset weather is modified(changed the name of file), please use the csv file included in the raw_data.
