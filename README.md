@@ -1,11 +1,11 @@
 # MAST30034 Project 1 - Quantitative Analysis
 - Student Name: Sanqiang Jiang
 - Student ID: 956163
-- Due Date: Friday 13th of August 11:59:00 am (AEST).
+- Due Date: 18th of August at 11:59 am AEST.(extended with permission)
 - Report Link: _Insert Report Link if applicable_
 
 # Dependencies
-- Language: _i.e Python 3.8.3 and/or R 4.05_
+- Language: Python 3.8.3
 - Packages / Libraries:pandas,sklearn,folium,numpy,warnings,seaborn,matplotlib.pyplot,matplotlib.mlab.
 
 # Datasets
